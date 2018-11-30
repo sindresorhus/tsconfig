@@ -1,0 +1,25 @@
+{
+	"name": "@sindresorhus/tsconfig",
+	"version": "0.0.0",
+	"description": "Shared TypeScript config for my projects",
+	"license": "MIT",
+	"repository": "sindresorhus/tsconfig",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"config",
+		"configuration"
+	]
+}
