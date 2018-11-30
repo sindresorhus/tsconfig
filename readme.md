@@ -1,4 +1,4 @@
-# tsconfig [![Build Status](https://travis-ci.com/sindresorhus/tsconfig.svg?branch=master)](https://travis-ci.com/sindresorhus/tsconfig)
+# tsconfig
 
 > Shared [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) for my projects
 
