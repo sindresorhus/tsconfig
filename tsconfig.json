@@ -19,8 +19,5 @@
 		"noEmitOnError": true,
 		"forceConsistentCasingInFileNames": true,
 		"skipLibCheck": true
-	},
-	"exclude": [
-		"node_modules"
-	]
+	}
 }
