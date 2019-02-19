@@ -15,6 +15,7 @@
 	"files": [
 		"tsconfig.json"
 	],
+	"main": "tsconfig.json",
 	"keywords": [
 		"tsconfig",
 		"typescript",
