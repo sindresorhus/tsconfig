@@ -9,6 +9,7 @@
 		"email": "sindresorhus@gmail.com",
 		"url": "sindresorhus.com"
 	},
+	"main": "tsconfig.json",
 	"engines": {
 		"node": ">=6"
 	},
