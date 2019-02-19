@@ -9,13 +9,13 @@
 		"email": "sindresorhus@gmail.com",
 		"url": "sindresorhus.com"
 	},
+	"main": "tsconfig.json",
 	"engines": {
 		"node": ">=6"
 	},
 	"files": [
 		"tsconfig.json"
 	],
-	"main": "tsconfig.json",
 	"keywords": [
 		"tsconfig",
 		"typescript",
