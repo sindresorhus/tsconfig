@@ -18,7 +18,7 @@ $ npm install --save-dev @sindresorhus/tsconfig
 {
 	"extends": "@sindresorhus/tsconfig",
 	"compilerOptions": {
-		"outDir": "dist",
+		"outDir": ".",
 		"target": "es2018",
 		"lib": [
 			"es2018"
