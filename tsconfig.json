@@ -6,7 +6,6 @@
 		"target": "es2016", // Node.js 6
 		"module": "commonjs",
 		"moduleResolution": "node",
-		"esModuleInterop": true,
 		"resolveJsonModule": true,
 		"jsx": "react",
 		"sourceMap": true,
