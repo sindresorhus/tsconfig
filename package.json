@@ -11,7 +11,7 @@
 	},
 	"main": "tsconfig.json",
 	"engines": {
-		"node": ">=6"
+		"node": ">=8"
 	},
 	"files": [
 		"tsconfig.json"
