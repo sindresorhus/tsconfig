@@ -8,7 +8,6 @@
 		"moduleResolution": "node",
 		"resolveJsonModule": true,
 		"jsx": "react",
-		"sourceMap": true,
 		"declaration": true,
 		"pretty": true,
 		"newLine": "lf",
