@@ -18,7 +18,8 @@
 		"noUnusedParameters": true,
 		"noFallthroughCasesInSwitch": true,
 		"noEmitOnError": true,
-		"useDefineForClassFields": true,
+		// Disabled because of TS bugs: https://github.com/sindresorhus/tsconfig/issues/7
+		// "useDefineForClassFields": true,
 		"forceConsistentCasingInFileNames": true,
 		"skipLibCheck": true
 	}
