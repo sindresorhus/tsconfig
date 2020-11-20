@@ -17,6 +17,7 @@
 		"noUnusedLocals": true,
 		"noUnusedParameters": true,
 		"noFallthroughCasesInSwitch": true,
+		"noUncheckedIndexedAccess": true,
 		"noEmitOnError": true,
 		// Disabled because of TS bugs: https://github.com/sindresorhus/tsconfig/issues/7
 		// "useDefineForClassFields": true,
