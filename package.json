@@ -7,11 +7,11 @@
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"url": "https://sindresorhus.com"
 	},
 	"main": "tsconfig.json",
 	"engines": {
-		"node": ">=8"
+		"node": ">=10"
 	},
 	"files": [
 		"tsconfig.json"

@@ -2,13 +2,11 @@
 
 > Shared [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) for my projects
 
-
 ## Install
 
 ```
 $ npm install --save-dev @sindresorhus/tsconfig
 ```
-
 
 ## Usage
 
@@ -26,8 +24,3 @@ $ npm install --save-dev @sindresorhus/tsconfig
 	}
 }
 ```
-
-
-## License
-
-MIT © [Sindre Sorhus](https://sindresorhus.com)
