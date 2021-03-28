@@ -16,11 +16,19 @@ $ npm install --save-dev @sindresorhus/tsconfig
 {
 	"extends": "@sindresorhus/tsconfig",
 	"compilerOptions": {
+		"outDir": "dist"
+	}
+}
+```
+
+When you are targeting a higher version of Node.js, check the relevant ECMAScript version and add it as `target`:
+
+```json
+{
+	"extends": "@sindresorhus/tsconfig",
+	"compilerOptions": {
 		"outDir": "dist",
-		"target": "es2018",
-		"lib": [
-			"es2018"
-		]
+		"target": "ES2021"
 	}
 }
 ```
