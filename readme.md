@@ -21,7 +21,7 @@ $ npm install --save-dev @sindresorhus/tsconfig
 }
 ```
 
-When you are targeting a higher version of NodeJS check the relevant ECMA Version and add it as `target`:
+When you are targeting a higher version of Node.js, check the relevant ECMAScript version and add it as `target`:
 
 ```json
 {
