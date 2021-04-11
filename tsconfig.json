@@ -7,7 +7,8 @@
 		"target": "ES2019", // Node.js 12
 		"lib": [
 			"ES2019",
-			"ES2020.String"
+			"ES2020.String",
+			"DOM"
 		],
 		"moduleResolution": "node",
 		"allowSyntheticDefaultImports": true, // To provide backwards compatibility, Node.js allows you to import most CommonJS packages with a default import. This flag tells TypeScript that it's okay to use import on CommonJS modules.
