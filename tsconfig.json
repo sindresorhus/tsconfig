@@ -30,6 +30,7 @@
 		"noEmitOnError": true,
 		"useDefineForClassFields": true,
 		"forceConsistentCasingInFileNames": true,
+		"useUnknownInCatchVariables": true,
 		"skipLibCheck": true
 	}
 }
