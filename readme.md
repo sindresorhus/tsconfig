@@ -4,9 +4,11 @@
 
 ## Install
 
+```sh
+npm install --save-dev @sindresorhus/tsconfig
 ```
-$ npm install --save-dev @sindresorhus/tsconfig
-```
+
+*This config requires TypeScript 4.7 or later.*
 
 ## Usage
 
