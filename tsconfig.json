@@ -4,6 +4,7 @@
 		// "outDir": "dist",
 
 		"module": "node16",
+		"moduleResolution": "node16",
 		"moduleDetection": "force",
 		"target": "ES2020", // Node.js 14
 		"lib": [
