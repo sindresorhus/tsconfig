@@ -16,6 +16,7 @@
 		"resolveJsonModule": false, // ESM doesn't yet support JSON modules.
 		"jsx": "react",
 		"declaration": true,
+		"declarationMap": true, // Enable Go To Source Definition with typescript > 4.7
 		"pretty": true,
 		"newLine": "lf",
 		"stripInternal": true,
