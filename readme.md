@@ -8,7 +8,7 @@
 npm install --save-dev @sindresorhus/tsconfig
 ```
 
-*This config requires TypeScript 4.7 or later.*
+*This config requires TypeScript 5 or later.*
 
 ## Usage
 
@@ -30,7 +30,7 @@ When you are targeting a higher version of Node.js, check the relevant ECMAScrip
 	"extends": "@sindresorhus/tsconfig",
 	"compilerOptions": {
 		"outDir": "dist",
-		"target": "ES2021"
+		"target": "ES2023"
 	}
 }
 ```
