@@ -4,12 +4,14 @@
 	"description": "Shared TypeScript config for my projects",
 	"license": "MIT",
 	"repository": "sindresorhus/tsconfig",
+	"funding": "https://github.com/sponsors/sindresorhus",
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
 		"url": "https://sindresorhus.com"
 	},
-	"main": "tsconfig.json",
+	"exports": "./tsconfig.json",
+	"sideEffects": false,
 	"engines": {
 		"node": ">=18"
 	},
