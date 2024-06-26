@@ -1,6 +1,8 @@
 {
 	"compilerOptions": {
-		"outDir": "${configDir}/distribution",
+		// Disabled because of https://github.com/Microsoft/TypeScript/issues/29172
+		// "outDir": "dist",
+
 		"module": "node16",
 		"moduleResolution": "node16",
 		"moduleDetection": "force",
