@@ -1,8 +1,7 @@
 {
 	"compilerOptions": {
 		"outDir": "${configDir}/distribution",
-		"module": "node16",
-		"moduleResolution": "node16",
+		"module": "preserve",
 		"moduleDetection": "force",
 		"target": "ES2022", // Node.js 18
 		"lib": [
@@ -10,7 +9,6 @@
 			"DOM.Iterable",
 			"ES2022"
 		],
-		"resolveJsonModule": false, // ESM doesn't yet support JSON modules.
 		"jsx": "react",
 		"declaration": true,
 		"newLine": "lf",
