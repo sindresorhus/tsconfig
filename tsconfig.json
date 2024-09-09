@@ -23,6 +23,7 @@
 		"noFallthroughCasesInSwitch": true,
 		"noUncheckedIndexedAccess": true,
 		"noPropertyAccessFromIndexSignature": true,
+		"noUncheckedSideEffectImports": true,
 		"noEmitOnError": true,
 		"useDefineForClassFields": true,
 		"forceConsistentCasingInFileNames": true,
