@@ -4,11 +4,11 @@
 		"module": "node16",
 		"moduleResolution": "node16",
 		"moduleDetection": "force",
-		"target": "ES2022", // Node.js 18
+		"target": "esnext",
 		"lib": [
 			"DOM",
 			"DOM.Iterable",
-			"ES2022"
+			"ES2022" // Node.js 18
 		],
 		"resolveJsonModule": false, // ESM doesn't yet support JSON modules.
 		"jsx": "react",
