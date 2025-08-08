@@ -13,7 +13,7 @@
 	"exports": "./tsconfig.json",
 	"sideEffects": false,
 	"engines": {
-		"node": ">=18"
+		"node": ">=20"
 	},
 	"files": [
 		"tsconfig.json"
