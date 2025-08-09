@@ -2,7 +2,7 @@
 	"compilerOptions": {
 		"outDir": "${configDir}/distribution",
 		"module": "node20",
-		"moduleResolution": "node20",
+		"moduleResolution": "node16",
 		"moduleDetection": "force",
 		"target": "esnext",
 		"lib": [
