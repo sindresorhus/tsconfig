@@ -10,7 +10,6 @@
 			"DOM.Iterable",
 			"ES2023" // Node.js 20
 		],
-		"resolveJsonModule": false, // ESM doesn't yet support JSON modules.
 		"jsx": "react-jsx",
 		"declaration": true,
 		"newLine": "lf",
