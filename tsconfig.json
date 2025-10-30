@@ -25,6 +25,7 @@
 		"noUncheckedIndexedAccess": true,
 		"noPropertyAccessFromIndexSignature": true,
 		"noUncheckedSideEffectImports": true,
+		"rewriteRelativeImportExtensions": true,
 		"noEmitOnError": true,
 		"useDefineForClassFields": true,
 		"forceConsistentCasingInFileNames": true,
