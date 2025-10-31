@@ -10,7 +10,7 @@ This config makes TypeScript not do any polyfilling, so only use syntax and feat
 npm install --save-dev @sindresorhus/tsconfig
 ```
 
-*This config requires TypeScript 5.5 or later.*
+*This config requires TypeScript >=5.9 and Node.js >=20.*
 
 ## Usage
 
