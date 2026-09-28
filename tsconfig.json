@@ -8,7 +8,7 @@
 		"lib": [
 			"DOM",
 			"DOM.Iterable",
-			"ES2023" // Node.js 20
+			"ES2024" // Node.js 22
 		],
 		"jsx": "react-jsx",
 		"declaration": true,
