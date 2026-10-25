@@ -21,6 +21,7 @@
 		"noFallthroughCasesInSwitch": true,
 		"noUncheckedIndexedAccess": true,
 		"noPropertyAccessFromIndexSignature": true,
+		"exactOptionalPropertyTypes": true,
 		"noEmitOnError": true,
 		"skipLibCheck": true
 	}
