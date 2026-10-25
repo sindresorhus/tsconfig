@@ -7,7 +7,6 @@
 		"target": "esnext",
 		"lib": [
 			"DOM",
-			"DOM.Iterable",
 			"ES2024" // Node.js 22
 		],
 		"jsx": "react-jsx",
@@ -15,7 +14,6 @@
 		"newLine": "lf",
 		"stripInternal": true,
 		"erasableSyntaxOnly": true,
-		"strict": true,
 		"noImplicitReturns": true,
 		"noImplicitOverride": true,
 		"noUnusedLocals": true,
@@ -23,10 +21,7 @@
 		"noFallthroughCasesInSwitch": true,
 		"noUncheckedIndexedAccess": true,
 		"noPropertyAccessFromIndexSignature": true,
-		"noUncheckedSideEffectImports": true,
 		"noEmitOnError": true,
-		"useDefineForClassFields": true,
-		"forceConsistentCasingInFileNames": true,
 		"skipLibCheck": true
 	}
 }

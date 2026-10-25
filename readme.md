@@ -10,7 +10,7 @@ This config makes TypeScript not do any polyfilling, so only use syntax and feat
 npm install --save-dev @sindresorhus/tsconfig
 ```
 
-*This config requires TypeScript >=5.9 and Node.js >=20.*
+*This config requires TypeScript >=6.0 and Node.js >=22.*
 
 ## Usage
 
@@ -19,5 +19,16 @@ npm install --save-dev @sindresorhus/tsconfig
 ```json
 {
 	"extends": "@sindresorhus/tsconfig"
+}
+```
+
+TypeScript no longer includes `@types/node` automatically. If your project uses Node.js APIs, install `@types/node` and add it to `types`:
+
+```json
+{
+	"extends": "@sindresorhus/tsconfig",
+	"compilerOptions": {
+		"types": ["node"]
+	}
 }
 ```
